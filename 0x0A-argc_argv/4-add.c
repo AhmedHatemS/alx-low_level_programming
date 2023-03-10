@@ -1,4 +1,7 @@
 #include <string.h>
+#include <stdio.h>
+#include "main.h"
+#include <stdlib.h>
 
 /**
  * main - Prints the sum of args positive numbers
